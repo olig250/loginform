@@ -1,0 +1,95 @@
+.container{
+    align: center;  
+    background-color: #ffffff; 
+  
+    height: 28em;   
+}
+body{
+    background-color: #353434;
+    padding: 4em;
+    padding-left: 17em;
+    padding-right: 17em;
+}
+.line1{
+    padding-top: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+.line2{
+    padding-top: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+.line3{
+    padding-top: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+.textField{
+    margin-top: 0.5em;
+    margin-bottom: 0.8em;
+    height: 2.5em;
+    background-color: #E0DBDB;
+    border: 0;
+}
+.left{
+    padding-right: 6em;
+}
+.btn-login{
+    background-color: #2F8AD6;
+    width: 12.5em;
+    margin-top: 1em;
+    height: 2.5em;
+    border: 0;
+    color: #ffffff;
+    border-radius: 0.3em;
+}
+.btn-login-guest{
+    background-color: lightgray;
+    width: 19.5em;
+    height: 2.8em;
+    border: 0;
+    color: gray;
+    border-radius: 0.3em;
+
+}
+h4{
+    color: #2F8AD6;
+}
+.google{
+    height: 1em;
+    width: 1em;
+}
+.question-mark{
+    background-color: #2F8AD6;
+    border-radius: 50%;
+    color: #ffffff;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+a{
+    text-decoration: none;
+}
+.sl{
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-size: 10px;
+}
+table{
+    padding-left: 3em;
+}
+.f-as{
+    font-size: 23px;
+}
+.Search{
+    background-color: lightgray;
+    width: 5.5em;
+    height: 2.8em;
+    border: 0;
+    color: gray;
+    border-radius: 0.3em;
+}
+.length{
+    padding-left: 2em;
+}
